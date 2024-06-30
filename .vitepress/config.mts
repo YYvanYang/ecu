@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: '人人都能用英语',
         items: [
-          { text: '简介', link: '/chapter1.md' },
+          { text: '简介', link: '/index.md' },
           { text: '第一章：起点', link: '/chapter1.md' },
           { text: '第二章：口语', link: '/chapter2.md' },
           { text: '第三章：语音', link: '/chapter3.md' },
